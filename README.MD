@@ -1,4 +1,8 @@
-public ip: 52.40.144.216
+**I.public ip: 52.40.144.216 Port: 2200**
+**II.Complete URL to Hosted Application: http://ec2-52-39-81-91.us-west-2.compute.amazonaws.com/**
+
+**III. Configuration, Installation, and Resources Used**
+
 **Configuration Changes made:**
 - 1. Create the grader : adduser grader
 - 2. Grader Password: 8E@nbags!
